@@ -2,14 +2,14 @@
 
 # Project Structure
 Project folder structure is as follows:
-bin
-src
-  .gitattributes
-  .python-version
-  README.md
-  requirements.txt
-  setup.py
-dist
+- bin
+- src
+  - .gitattributes
+  - .python-version
+  - README.md
+  - requirements.txt
+  - setup.py
+- dist
 
 Packaging the project into an egg file is accomplished with the command below:
 ## python setup.py bdist_egg
