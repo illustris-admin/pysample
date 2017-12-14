@@ -16,4 +16,4 @@ Packaging the project into an egg file is accomplished with the command below:
 The egg file will be found within the dist folder
 
 Submitting into spark would be:
-## spark-submit --py-files <filename>.egg src/sparkversion.py
+## spark-submit --py-files filename.egg src/sparkversion.py
