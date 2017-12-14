@@ -1,5 +1,6 @@
 # pysample
 
+# Project Structure
 Project folder structure is as follows:
 bin
 src
